@@ -1,0 +1,14 @@
+{
+    "name": "nezaniel\/connector-fudforum",
+    "type": "typo3-flow-package",
+    "description": "Add description here",
+    "require": {
+        "typo3\/flow": "*",
+        "flowpack\/singlesignon-server": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Nezaniel\\Connector\\FUDforum": "Classes"
+        }
+    }
+}
